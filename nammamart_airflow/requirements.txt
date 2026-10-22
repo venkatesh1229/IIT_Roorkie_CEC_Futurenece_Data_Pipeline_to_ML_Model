@@ -1,0 +1,8 @@
+pandas
+duckdb
+scikit-learn
+langgraph
+langchain
+langchain-openai
+slack_sdk
+apache-airflow-providers-slack
